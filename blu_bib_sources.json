@@ -1,0 +1,2423 @@
+{
+  "elements": [
+    {
+      "label": "DTU Skylab",
+      "id": "DTU:sky",
+      "type": "organization",
+      "tags": [
+        "program",
+        "funding",
+        "universities",
+        "denmark"
+      ],
+      "url": "http://skylab.dtu.dk/",
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "DTU Tech Trans",
+      "id": "DTU:techt",
+      "type": "organization",
+      "tags": [
+        "startups",
+        "program",
+        "students",
+        "universities",
+        "denmark"
+      ],
+      "url": "http://dtu.dk/Samarbejde/Innovation-og-entreprenoerskab",
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "DTU Science Park",
+      "id": "DTU:scip",
+      "type": "organization",
+      "tags": [
+        "startups",
+        "universities",
+        "denmark",
+        "accelerator"
+      ],
+      "url": "http://dtusciencepark.dk",
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Open Entrepreneurship",
+      "id": "DTU:opene",
+      "type": "organization",
+      "tags": [
+        "program",
+        "universities",
+        "denmark"
+      ],
+      "url": "http://open-entrepreneurship.com",
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Stardust DTU",
+      "id": "DTU:Stardust",
+      "type": "organization",
+      "tags": [
+        "students",
+        "accelerator",
+        "denmark"
+      ],
+      "url": "http://stardust-dtu.dk/",
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Venture Cup Denmark",
+      "id": "VenCup",
+      "type": "organization",
+      "tags": [
+        "startups",
+        "students",
+        "denmark",
+        "accelerator"
+      ],
+      "url": "www.venturecup.dk",
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Preseed Ventures",
+      "id": "PreVen",
+      "type": "organization",
+      "tags": [
+        "denmark",
+        "funding"
+      ],
+      "url": "www.preseedventures.dk",
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Climate-KIC",
+      "id": "ClimKIC",
+      "type": "organization",
+      "tags": [
+        "europe"
+      ],
+      "url": "www.climate-kic.org",
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Student & Innovation House",
+      "id": "SIHouse",
+      "type": "organization",
+      "tags": [
+        "student"
+      ],
+      "url": "www.studenthouse.dk",
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Copenhagen Business School",
+      "id": "CBS",
+      "type": "university",
+      "tags": []
+    },
+    {
+      "label": "Technical University of Denmark",
+      "id": "DTU",
+      "type": "university",
+      "tags": []
+    },
+    {
+      "label": "K\u00f8benhavns Erhvervsakademi",
+      "id": "KEA",
+      "type": "university",
+      "tags": []
+    },
+    {
+      "label": "University of Copenhagen",
+      "id": "KU",
+      "type": "university",
+      "tags": []
+    },
+    {
+      "label": "Oulu Business Kitchen",
+      "id": "Oulu",
+      "type": "university",
+      "tags": []
+    },
+    {
+      "label": "Go Grow!",
+      "id": "CBS:CSE:GoGrow",
+      "type": "program",
+      "tags": [],
+      "url": "www.go-grow.dk"
+    },
+    {
+      "label": "Copenhagen School of Entrepreneurship (CSE)",
+      "id": "CBS:CSE",
+      "type": "university_unit",
+      "tags": [],
+      "url": "cse.cbs.dk",
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Business Kitchen",
+      "id": "Oulu:BuKi",
+      "type": "university_unit",
+      "tags": [],
+      "url": "www.businesskitchen.fi",
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "UCPH Innovation Hubs",
+      "id": "KU:UCPHIHubs",
+      "type": "university_unit",
+      "tags": [],
+      "url": "www.ie.ku.dk",
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Eupry ApS",
+      "id": "Eupry",
+      "type": "startup",
+      "tags": [],
+      "url": "eupry.com",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Obital",
+      "id": "Obita",
+      "type": "startup",
+      "tags": [],
+      "url": "www.obital.io",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "TresActio",
+      "id": "TresAc",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Inniti",
+      "id": "Innit",
+      "type": "startup",
+      "tags": [],
+      "url": "www.inniti.dk",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Recombiotics",
+      "id": "Recom",
+      "type": "startup",
+      "tags": [],
+      "url": "www.recombiotics.com",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Polysystems",
+      "id": "Polys",
+      "type": "startup",
+      "tags": [],
+      "url": "www.polysystems.io",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "CALAO",
+      "id": "CALAO",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "StepUp Air",
+      "id": "StepUp",
+      "type": "startup",
+      "tags": [],
+      "url": "stepupair.com",
+      "connected_to": [
+        "DTU:sky",
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "DTU:hitecfair",
+        "CBS:eday18",
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "FlexLogical",
+      "id": "FlexLo",
+      "type": "startup",
+      "tags": [],
+      "url": "www.FlexLogical.com",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair",
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "SubBlue Robotics",
+      "id": "SubBlu",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "KiteX",
+      "id": "KiteX",
+      "type": "startup",
+      "tags": [],
+      "url": "www.kitex.tech",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Fischent",
+      "id": "Fisch",
+      "type": "startup",
+      "tags": [],
+      "url": "www.e-fishent.com",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Seasony",
+      "id": "Seaso",
+      "type": "startup",
+      "tags": [],
+      "url": "seasony.dk",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "iSeal Digital",
+      "id": "iSealD",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Venom Aid",
+      "id": "VenomA",
+      "type": "startup",
+      "tags": [],
+      "url": "www.venomaid.com",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Apico",
+      "id": "Apico",
+      "type": "startup",
+      "tags": [],
+      "url": "Apico.no",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Combine",
+      "id": "Combi",
+      "type": "startup",
+      "tags": [],
+      "url": "www.combine.no",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "O.P. global",
+      "id": "OPglob",
+      "type": "startup",
+      "tags": [],
+      "url": "www.op-global.com",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "DeePQ",
+      "id": "DeeQ",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "HoneyGuide",
+      "id": "HoneyG",
+      "type": "startup",
+      "tags": [],
+      "url": "https://honeyguide.tech",
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Wavi",
+      "id": "Wavi",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "BlueBenu",
+      "id": "BlueBe",
+      "type": "startup",
+      "tags": [],
+      "url": "www.bluebenu.dk",
+      "connected_to": [
+        "DTU:sky",
+        "CSE"
+      ],
+      "crossref": [
+        "DTU:hitecfair",
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "AUGIT Solutions",
+      "id": "AUGITS",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Chromologics",
+      "id": "Chrom",
+      "type": "startup",
+      "tags": [],
+      "url": "www.chromologics.com",
+      "connected_to": [
+        "DTU:techt"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Mosspiration",
+      "id": "Mossp",
+      "type": "startup",
+      "tags": [],
+      "url": "www.mosspirationbiotech.com",
+      "connected_to": [
+        "DTU:techt"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Black Solar Strings/Cells",
+      "id": "BlackS",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:techt"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "ASKARI",
+      "id": "ASKAR",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:techt"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Nanocrafts",
+      "id": "Nanoc",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:techt",
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "CEKO Sensors",
+      "id": "CEKOSe",
+      "type": "startup",
+      "tags": [],
+      "url": "www.cekosensors.com",
+      "connected_to": [
+        "DTU:techt"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "IBIO Biotech",
+      "id": "IBIOBi",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:scip"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Measurelet",
+      "id": "Measu",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:scip"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Lapee",
+      "id": "Lapee",
+      "type": "startup",
+      "tags": [],
+      "url": "www.lapee.dk",
+      "connected_to": [
+        "DTU:scip"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Trebo",
+      "id": "Trebo",
+      "type": "startup",
+      "tags": [],
+      "url": "www.trebo.dk",
+      "connected_to": [
+        "DTU:scip",
+        "DTU:sky"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "GoDogo",
+      "id": "GoDogo",
+      "type": "startup",
+      "tags": [],
+      "url": "www.go-dogo.com",
+      "connected_to": [
+        "DTU:scip"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Compocket",
+      "id": "Compo",
+      "type": "startup",
+      "tags": [],
+      "url": "www.compocket.com",
+      "connected_to": [
+        "DTU:scip"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Rel8",
+      "id": "Rel8",
+      "type": "startup",
+      "tags": [],
+      "url": "www.rel8.dk",
+      "connected_to": [
+        "DTU:scip"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Nordetect",
+      "id": "Norde",
+      "type": "startup",
+      "tags": [],
+      "url": "www.nordetect.com",
+      "connected_to": [
+        "DTU:scip"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Sokuno",
+      "id": "Sokun",
+      "type": "startup",
+      "tags": [],
+      "url": "Matchboard.dk",
+      "connected_to": [
+        "DTU:scip"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "MiWire Aps",
+      "id": "MiWire",
+      "type": "startup",
+      "tags": [],
+      "url": "miwire.net",
+      "connected_to": [
+        "DTU:scip"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "NORBLIS",
+      "id": "NORBL",
+      "type": "startup",
+      "tags": [],
+      "url": "www.norblis.com",
+      "connected_to": [
+        "DTU:opene"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Optoceutics",
+      "id": "Optoc",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:opene",
+        "DTU:techt"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "Brain Capture",
+      "id": "BrainC",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "DTU:opene"
+      ],
+      "crossref": [
+        "DTU:hitecfair"
+      ]
+    },
+    {
+      "label": "2030 Builders",
+      "id": "Build30",
+      "type": "startup",
+      "tags": [],
+      "url": "www.2030.builders",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Fresh.Land",
+      "id": "FreshL",
+      "type": "startup",
+      "tags": [],
+      "url": "www.fresh.land",
+      "connected_to": [
+        "KU"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Let Leg",
+      "id": "LetLeg",
+      "type": "startup",
+      "tags": [],
+      "url": "www.letleg.dk",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CBS:eday18",
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "Lulu Lab",
+      "id": "LuluLa",
+      "type": "startup",
+      "tags": [],
+      "url": "www.lululab.org",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Company42 ApS",
+      "id": "Compa42",
+      "type": "startup",
+      "tags": [],
+      "url": "www.42patents.com",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Insight Academia",
+      "id": "InsigA",
+      "type": "startup",
+      "tags": [],
+      "url": "",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Blue Lobster",
+      "id": "BlueLo",
+      "type": "startup",
+      "tags": [],
+      "url": "www.bluelobsterapp.com",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "hairpal",
+      "id": "hairp",
+      "type": "startup",
+      "tags": [],
+      "url": "https://www.facebook.com/hairpalOfficial/",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "BeYou SkinCare",
+      "id": "BeYouS",
+      "type": "startup",
+      "tags": [],
+      "url": "www.beyousc.com",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "The Creators Rep",
+      "id": "CreatR",
+      "type": "startup",
+      "tags": [],
+      "url": "www.thecreatorsrep.dk",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Squarely",
+      "id": "Squar",
+      "type": "startup",
+      "tags": [],
+      "url": "www.squarely.dk",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Mermaid Stories",
+      "id": "MermaS",
+      "type": "startup",
+      "tags": [],
+      "url": "www.mermaid-stories.com",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "CREZO",
+      "id": "CREZO",
+      "type": "startup",
+      "tags": [],
+      "url": "www.crezo.dk",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Itchyfeet",
+      "id": "Itchy",
+      "type": "startup",
+      "tags": [],
+      "url": "www.itchyfeet.com",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "OP! Lost & Found",
+      "id": "OPLost",
+      "type": "startup",
+      "tags": [],
+      "url": "https://www.linkedin.com/company/op-den",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "PackItUp",
+      "id": "PackUp",
+      "type": "startup",
+      "tags": [],
+      "url": "www.packitup.dk",
+      "connected_to": [
+        "KU"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Solekko Solutions",
+      "id": "SolekS",
+      "type": "startup",
+      "tags": [],
+      "url": "www.solekko.fi",
+      "connected_to": [
+        "Oulu"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Akademio",
+      "id": "Akade",
+      "type": "startup",
+      "tags": [],
+      "url": "www.akademio.dk",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Trickster",
+      "id": "Trick",
+      "type": "startup",
+      "tags": [],
+      "url": "www.trickster.app",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Uni Bazaar",
+      "id": "UniBaz",
+      "type": "startup",
+      "tags": [],
+      "url": "www.unibazaar.dk",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Consulting Prep",
+      "id": "ConsuP",
+      "type": "startup",
+      "tags": [],
+      "url": "www.consultingprep.com",
+      "connected_to": [
+        "KU"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "Taphouse Studio",
+      "id": "TaphoS",
+      "type": "startup",
+      "tags": [],
+      "url": "www.taphousestudio.com",
+      "connected_to": [
+        "CSE"
+      ],
+      "crossref": [
+        "CBS:eday18"
+      ]
+    },
+    {
+      "label": "getULocal",
+      "id": "getLoc",
+      "type": "startup",
+      "tags": [],
+      "url": "www.getulocal.com",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "HairLust",
+      "id": "HairLu",
+      "type": "startup",
+      "tags": [],
+      "url": "www.thehairlust.com",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "miheroo",
+      "id": "miher",
+      "type": "startup",
+      "tags": [],
+      "url": "www.miheroo.com",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "\u00d8NSK",
+      "id": "\u00d8NSK",
+      "type": "startup",
+      "tags": [],
+      "url": "www.onsk.dk",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "SOLOSOCKS",
+      "id": "SOLOS",
+      "type": "startup",
+      "tags": [],
+      "url": "www.solosocks.co",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "Vulcur Medtech",
+      "id": "VulcuM",
+      "type": "startup",
+      "tags": [],
+      "url": "www.vulcurmedtech.com",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "21RISK",
+      "id": "RISK21",
+      "type": "startup",
+      "tags": [],
+      "url": "www.21risk.com",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "4TECH",
+      "id": "TECH4",
+      "type": "startup",
+      "tags": [],
+      "url": "www.4tech.dk",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "Drivi",
+      "id": "Drivi",
+      "type": "startup",
+      "tags": [],
+      "url": "www.drivi.dk",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "Gastroform",
+      "id": "Gastr",
+      "type": "startup",
+      "tags": [],
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "Prop.Exchange",
+      "id": "PropEx",
+      "type": "startup",
+      "tags": [],
+      "url": "www.prop.exchange",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "RadiSurf",
+      "id": "RadiSu",
+      "type": "startup",
+      "tags": [],
+      "url": "www.radisurf.com",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "Sani nudge",
+      "id": "Saninu",
+      "type": "startup",
+      "tags": [],
+      "url": "www.saninudge.com",
+      "connected_to": [
+        "CSE:GoGrow"
+      ],
+      "crossref": [
+        "CSE:batch6"
+      ]
+    },
+    {
+      "label": "Programme Wednesday / Thursday",
+      "id": "DTU:hitec18",
+      "type": "@booklet",
+      "tags": [
+        "universities",
+        "denmark",
+        "event"
+      ],
+      "event_title": "High Tech Summit Copenhagen 2018",
+      "event_date": "Oct 2018"
+    },
+    {
+      "label": "DTU Startup Fair",
+      "id": "DTU:hitecfair",
+      "type": "@booklet",
+      "tags": [
+        "startups",
+        "students",
+        "denmark",
+        "event"
+      ],
+      "organizers": [
+        "DTU:sky",
+        "DTU:techt",
+        "DTU:scip",
+        "DTU:opene"
+      ],
+      "startups": [
+        "Eupry",
+        "Obita",
+        "TresAc",
+        "Innit",
+        "Recom",
+        "Polys",
+        "CALAO",
+        "StepUp",
+        "FlexLo",
+        "SubBlu",
+        "KiteX",
+        "Fisch",
+        "Seaso",
+        "iSealD",
+        "VenomA",
+        "Apico",
+        "Combi",
+        "OPglob",
+        "DeeQ",
+        "HoneyG",
+        "Wavi",
+        "BlueBe",
+        "AUGITS",
+        "Chrom",
+        "Mossp",
+        "BlackS",
+        "ASKAR",
+        "Nanoc",
+        "CEKOSe",
+        "IBIOBi",
+        "Measu",
+        "Lapee",
+        "Trebo",
+        "GoDogo",
+        "Compo",
+        "Rel8",
+        "Norde",
+        "Sokun",
+        "MiWire",
+        "NORBL",
+        "Optoc",
+        "BrainC"
+      ]
+    },
+    {
+      "label": "Lookbook Batch #6",
+      "id": "CSE:batch6",
+      "type": "@booklet",
+      "tags": [
+        "startups",
+        "students",
+        "denmark"
+      ],
+      "startups": [
+        "getLoc",
+        "HairLu",
+        "LetLeg",
+        "miher",
+        "\u00d8NSK",
+        "SOLOS",
+        "StepUp",
+        "VulcuM",
+        "RISK21",
+        "TECH4",
+        "Drivi",
+        "Gastr",
+        "PropEx",
+        "RadiSu",
+        "Saninu"
+      ],
+      "partners": [
+        "CSE",
+        "SEED Capital",
+        "Interactive Denmark",
+        "Lemonsqueeze",
+        "The Royal Danish Academy Of Music",
+        "Industriens Fond",
+        "Northcap",
+        "Mazanti-Andersen Kors\u00f8 Jensen",
+        "Teknologisk Institut",
+        "KU",
+        "Frederiksberg Science City",
+        "Augmento Advokatfirma",
+        "CBS",
+        "Sparrings partnerne",
+        "Fonded For Entrepren\u00f8rskab",
+        "KEA",
+        "Create.dk",
+        "DTU",
+        "Deloitte",
+        "Danish Business Angels",
+        "Dansk Industri",
+        "Agenda Advokater"
+      ]
+    },
+    {
+      "label": "CBS Entrepreneurial Day",
+      "id": "CBS:eday18",
+      "type": "@booklet",
+      "tags": [
+        "startups",
+        "students",
+        "denmark",
+        "event"
+      ],
+      "event_title": "CBS Entrepreneurial Day",
+      "event_date": "Sep 2018",
+      "organizers": [
+        "CBS:CSE"
+      ],
+      "startups": [
+        "StepUp",
+        "FlexLo",
+        "BlueBe",
+        "Build30",
+        "FreshL",
+        "LetLeg",
+        "LuluLa",
+        "Compa42",
+        "InsigA",
+        "BlueLo",
+        "hairp",
+        "BeYouS",
+        "CreatR",
+        "Squar",
+        "MermaS",
+        "CREZO",
+        "Itchy",
+        "OPLost",
+        "PackUp",
+        "SolekS",
+        "Akade",
+        "Trick",
+        "UniBaz",
+        "ConsuP",
+        "TaphoS"
+      ],
+      "collaborators": [
+        "DTU:sky",
+        "VenCup",
+        "SIHouse"
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "from": "DTU:sky",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "DTU:techt",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "DTU:scip",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "DTU:opene",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "DTU:Stardust",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "VenCup",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "PreVen",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "ClimKIC",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "SIHouse",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "CBS:CSE",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Oulu:BuKi",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "KU:UCPHIHubs",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Eupry",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Eupry",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Obita",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Obita",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "TresAc",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "TresAc",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Innit",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Innit",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Recom",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Recom",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Polys",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Polys",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "CALAO",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "CALAO",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "StepUp",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "StepUp",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "StepUp",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "StepUp",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "StepUp",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "FlexLo",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "FlexLo",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "FlexLo",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "SubBlu",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "SubBlu",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "KiteX",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "KiteX",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Fisch",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Fisch",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Seaso",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Seaso",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "iSealD",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "iSealD",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "VenomA",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "VenomA",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Apico",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Apico",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Combi",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Combi",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "OPglob",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "OPglob",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "DeeQ",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "DeeQ",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "HoneyG",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "HoneyG",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Wavi",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Wavi",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "BlueBe",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "BlueBe",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "BlueBe",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "BlueBe",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "AUGITS",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "AUGITS",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Chrom",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Chrom",
+      "to": "DTU:techt",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Mossp",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Mossp",
+      "to": "DTU:techt",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "BlackS",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "BlackS",
+      "to": "DTU:techt",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "ASKAR",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "ASKAR",
+      "to": "DTU:techt",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Nanoc",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Nanoc",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Nanoc",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "CEKOSe",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "CEKOSe",
+      "to": "DTU:techt",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "IBIOBi",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "IBIOBi",
+      "to": "DTU:scip",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Measu",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Measu",
+      "to": "DTU:scip",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Lapee",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Lapee",
+      "to": "DTU:scip",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Trebo",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Trebo",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Trebo",
+      "to": "DTU:sky",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "GoDogo",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "GoDogo",
+      "to": "DTU:scip",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Compo",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Compo",
+      "to": "DTU:scip",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Rel8",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Rel8",
+      "to": "DTU:scip",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Norde",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Norde",
+      "to": "DTU:scip",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Sokun",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Sokun",
+      "to": "DTU:scip",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "MiWire",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "MiWire",
+      "to": "DTU:scip",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "NORBL",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "NORBL",
+      "to": "DTU:opene",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Optoc",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Optoc",
+      "to": "DTU:techt",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Optoc",
+      "to": "DTU:techt",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "BrainC",
+      "to": "DTU:hitecfair",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "BrainC",
+      "to": "DTU:opene",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Build30",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Build30",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "FreshL",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "FreshL",
+      "to": "KU",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "LetLeg",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "LetLeg",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "LetLeg",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "LuluLa",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "LuluLa",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Compa42",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Compa42",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "InsigA",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "InsigA",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "BlueLo",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "BlueLo",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "hairp",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "hairp",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "BeYouS",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "BeYouS",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "CreatR",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "CreatR",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Squar",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Squar",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "MermaS",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "MermaS",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "CREZO",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "CREZO",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Itchy",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Itchy",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "OPLost",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "OPLost",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "PackUp",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "PackUp",
+      "to": "KU",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "SolekS",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "SolekS",
+      "to": "Oulu",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Akade",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Akade",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Trick",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Trick",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "UniBaz",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "UniBaz",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "ConsuP",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "ConsuP",
+      "to": "KU",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "TaphoS",
+      "to": "CBS:eday18",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "TaphoS",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "getLoc",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "getLoc",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "HairLu",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "HairLu",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "miher",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "miher",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "\u00d8NSK",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "\u00d8NSK",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "SOLOS",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "SOLOS",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "VulcuM",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "VulcuM",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "RISK21",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "RISK21",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "TECH4",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "TECH4",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Drivi",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Drivi",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Gastr",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Gastr",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "PropEx",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "PropEx",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "RadiSu",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "RadiSu",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "Saninu",
+      "to": "CSE:batch6",
+      "label": "crossref",
+      "type": "crossref"
+    },
+    {
+      "from": "Saninu",
+      "to": "CSE:GoGrow",
+      "label": "connected_to",
+      "type": "connected_to"
+    }
+  ]
+}
