@@ -16,7 +16,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": "\naccelerate entrepreneurial mindsets and ideas\n"
     },
     {
       "label": "DTU Tech Trans",
@@ -35,7 +36,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": "\ncommercialization of invention from DTU employees\n"
     },
     {
       "label": "DTU Science Park",
@@ -53,7 +55,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": "\nwe create a space where deep tech ideas are developed and shaped, so they can be realized more quickly and turned into business\n"
     },
     {
       "label": "Open Entrepreneurship",
@@ -70,7 +73,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": "\nnational program [...] to create more research-based startups comming from universities to benefit society\n"
     },
     {
       "label": "Stardust DTU",
@@ -87,7 +91,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Venture Cup Denmark",
@@ -102,7 +107,8 @@
       "url": "www.venturecup.dk",
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": "\nmeet startup talents through competitions, programs, and social events\n"
     },
     {
       "label": "Preseed Ventures",
@@ -115,7 +121,8 @@
       "url": "www.preseedventures.dk",
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": "\npublicly funded early stage investment fund for startups with proven technologies, big markets, and a strong team\n"
     },
     {
       "label": "Climate-KIC",
@@ -127,7 +134,8 @@
       "url": "www.climate-kic.org",
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": "\nfocused on transforming green business ideas into economically viable products and services\n"
     },
     {
       "label": "Student & Innovation House",
@@ -139,44 +147,55 @@
       "url": "www.studenthouse.dk",
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Copenhagen Business School",
       "id": "CBS",
       "type": "university",
-      "tags": []
+      "tags": [],
+      "description": ""
     },
     {
       "label": "Technical University of Denmark",
       "id": "DTU",
       "type": "university",
-      "tags": []
+      "tags": [],
+      "description": ""
     },
     {
       "label": "K\u00f8benhavns Erhvervsakademi",
       "id": "KEA",
       "type": "university",
-      "tags": []
+      "tags": [],
+      "description": ""
     },
     {
       "label": "University of Copenhagen",
       "id": "KU",
       "type": "university",
-      "tags": []
+      "tags": [],
+      "description": ""
     },
     {
       "label": "Oulu Business Kitchen",
       "id": "Oulu",
       "type": "university",
-      "tags": []
+      "tags": [],
+      "description": ""
     },
     {
       "label": "Go Grow!",
       "id": "CSE:GoGrow",
       "type": "program",
       "tags": [],
-      "url": "www.go-grow.dk"
+      "url": "www.go-grow.dk",
+      "connected_to": [
+        "CBS",
+        "CSE"
+      ],
+      "description": ""
     },
     {
       "label": "Copenhagen School of Entrepreneurship (CSE)",
@@ -189,7 +208,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": "\nCBS's unit for practical and applied entrepreneurship\n"
     },
     {
       "label": "Business Kitchen",
@@ -202,7 +222,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "UCPH Innovation Hubs",
@@ -215,7 +236,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Eupry ApS",
@@ -228,7 +250,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Obital",
@@ -241,7 +264,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "TresActio",
@@ -253,7 +277,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Inniti",
@@ -266,7 +291,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Recombiotics",
@@ -279,7 +305,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Polysystems",
@@ -292,7 +319,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "CALAO",
@@ -304,7 +332,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "StepUp Air",
@@ -320,7 +349,8 @@
         "DTU:hitecfair",
         "CBS:eday18",
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "FlexLogical",
@@ -334,7 +364,8 @@
       "crossref": [
         "DTU:hitecfair",
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "SubBlue Robotics",
@@ -346,7 +377,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "KiteX",
@@ -359,7 +391,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Fischent",
@@ -372,7 +405,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Seasony",
@@ -385,7 +419,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "iSeal Digital",
@@ -397,7 +432,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Venom Aid",
@@ -410,7 +446,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Apico",
@@ -423,7 +460,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Combine",
@@ -436,7 +474,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "O.P. global",
@@ -449,7 +488,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "DeePQ",
@@ -461,7 +501,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "HoneyGuide",
@@ -474,7 +515,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Wavi",
@@ -486,7 +528,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "BlueBenu",
@@ -501,7 +544,8 @@
       "crossref": [
         "DTU:hitecfair",
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "AUGIT Solutions",
@@ -513,7 +557,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Chromologics",
@@ -526,7 +571,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Mosspiration",
@@ -539,7 +585,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Black Solar Strings/Cells",
@@ -551,7 +598,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "ASKARI",
@@ -563,7 +611,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Nanocrafts",
@@ -576,7 +625,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "CEKO Sensors",
@@ -589,7 +639,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "IBIO Biotech",
@@ -601,7 +652,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Measurelet",
@@ -613,7 +665,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Lapee",
@@ -626,7 +679,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Trebo",
@@ -640,7 +694,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "GoDogo",
@@ -653,7 +708,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Compocket",
@@ -666,7 +722,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Rel8",
@@ -679,7 +736,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Nordetect",
@@ -692,7 +750,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Sokuno",
@@ -705,7 +764,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "MiWire Aps",
@@ -718,7 +778,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "NORBLIS",
@@ -731,7 +792,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Optoceutics",
@@ -744,7 +806,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Brain Capture",
@@ -756,7 +819,8 @@
       ],
       "crossref": [
         "DTU:hitecfair"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "2030 Builders",
@@ -769,7 +833,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Fresh.Land",
@@ -782,7 +847,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Let Leg",
@@ -796,7 +862,8 @@
       "crossref": [
         "CBS:eday18",
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Lulu Lab",
@@ -809,7 +876,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Company42 ApS",
@@ -822,7 +890,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Insight Academia",
@@ -835,7 +904,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Blue Lobster",
@@ -848,7 +918,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "hairpal",
@@ -861,7 +932,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "BeYou SkinCare",
@@ -874,7 +946,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "The Creators Rep",
@@ -887,7 +960,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Squarely",
@@ -900,7 +974,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Mermaid Stories",
@@ -913,7 +988,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "CREZO",
@@ -926,7 +1002,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Itchyfeet",
@@ -939,7 +1016,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "OP! Lost & Found",
@@ -952,7 +1030,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "PackItUp",
@@ -965,7 +1044,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Solekko Solutions",
@@ -978,7 +1058,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Akademio",
@@ -991,7 +1072,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Trickster",
@@ -1004,7 +1086,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Uni Bazaar",
@@ -1017,7 +1100,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Consulting Prep",
@@ -1030,7 +1114,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Taphouse Studio",
@@ -1043,7 +1128,8 @@
       ],
       "crossref": [
         "CBS:eday18"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "getULocal",
@@ -1056,7 +1142,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "HairLust",
@@ -1069,7 +1156,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "miheroo",
@@ -1082,7 +1170,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "\u00d8NSK",
@@ -1095,7 +1184,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "SOLOSOCKS",
@@ -1108,7 +1198,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Vulcur Medtech",
@@ -1121,7 +1212,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "21RISK",
@@ -1134,7 +1226,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "4TECH",
@@ -1147,7 +1240,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Drivi",
@@ -1160,7 +1254,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Gastroform",
@@ -1172,7 +1267,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Prop.Exchange",
@@ -1185,7 +1281,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "RadiSurf",
@@ -1198,7 +1295,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Sani nudge",
@@ -1211,7 +1309,8 @@
       ],
       "crossref": [
         "CSE:batch6"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Programme Wednesday / Thursday",
@@ -1223,7 +1322,8 @@
         "event"
       ],
       "event_title": "High Tech Summit Copenhagen 2018",
-      "event_date": "Oct 2018"
+      "event_date": "Oct 2018",
+      "description": "## High Tech Summit Copenhagen 2018\n### Oct 2018\n"
     },
     {
       "label": "DTU Startup Fair",
@@ -1284,7 +1384,8 @@
         "NORBLIS",
         "Optoceutics",
         "Brain Capture"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "Lookbook Batch #6",
@@ -1335,7 +1436,8 @@
         "Danish Business Angels",
         "Dansk Industri",
         "Agenda Advokater"
-      ]
+      ],
+      "description": ""
     },
     {
       "label": "CBS Entrepreneurial Day",
@@ -1383,7 +1485,8 @@
         "DTU:sky",
         "VenCup",
         "SIHouse"
-      ]
+      ],
+      "description": "## CBS Entrepreneurial Day\n### Sep 2018\n"
     }
   ],
   "connections": [
@@ -1470,6 +1573,18 @@
       "to": "CBS:eday18",
       "label": "crossref",
       "type": "crossref"
+    },
+    {
+      "from": "CSE:GoGrow",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
+      "from": "CSE:GoGrow",
+      "to": "CSE",
+      "label": "connected_to",
+      "type": "connected_to"
     },
     {
       "from": "CBS:CSE",
