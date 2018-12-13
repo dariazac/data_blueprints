@@ -11,6 +11,9 @@
         "denmark"
       ],
       "url": "http://skylab.dtu.dk/",
+      "connected_to": [
+        "DTU"
+      ],
       "crossref": [
         "DTU:hitecfair"
       ]
@@ -27,6 +30,9 @@
         "denmark"
       ],
       "url": "http://dtu.dk/Samarbejde/Innovation-og-entreprenoerskab",
+      "connected_to": [
+        "DTU"
+      ],
       "crossref": [
         "DTU:hitecfair"
       ]
@@ -42,6 +48,9 @@
         "accelerator"
       ],
       "url": "http://dtusciencepark.dk",
+      "connected_to": [
+        "DTU"
+      ],
       "crossref": [
         "DTU:hitecfair"
       ]
@@ -56,6 +65,9 @@
         "denmark"
       ],
       "url": "http://open-entrepreneurship.com",
+      "connected_to": [
+        "DTU"
+      ],
       "crossref": [
         "DTU:hitecfair"
       ]
@@ -70,6 +82,9 @@
         "denmark"
       ],
       "url": "http://stardust-dtu.dk/",
+      "connected_to": [
+        "DTU"
+      ],
       "crossref": [
         "DTU:hitecfair"
       ]
@@ -158,7 +173,7 @@
     },
     {
       "label": "Go Grow!",
-      "id": "CBS:CSE:GoGrow",
+      "id": "CSE:GoGrow",
       "type": "program",
       "tags": [],
       "url": "www.go-grow.dk"
@@ -169,6 +184,9 @@
       "type": "university_unit",
       "tags": [],
       "url": "cse.cbs.dk",
+      "connected_to": [
+        "CBS"
+      ],
       "crossref": [
         "CBS:eday18"
       ]
@@ -179,6 +197,9 @@
       "type": "university_unit",
       "tags": [],
       "url": "www.businesskitchen.fi",
+      "connected_to": [
+        "Oulu"
+      ],
       "crossref": [
         "CBS:eday18"
       ]
@@ -189,6 +210,9 @@
       "type": "university_unit",
       "tags": [],
       "url": "www.ie.ku.dk",
+      "connected_to": [
+        "KU"
+      ],
       "crossref": [
         "CBS:eday18"
       ]
@@ -1370,10 +1394,22 @@
       "type": "crossref"
     },
     {
+      "from": "DTU:sky",
+      "to": "DTU",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
       "from": "DTU:techt",
       "to": "DTU:hitecfair",
       "label": "crossref",
       "type": "crossref"
+    },
+    {
+      "from": "DTU:techt",
+      "to": "DTU",
+      "label": "connected_to",
+      "type": "connected_to"
     },
     {
       "from": "DTU:scip",
@@ -1382,16 +1418,34 @@
       "type": "crossref"
     },
     {
+      "from": "DTU:scip",
+      "to": "DTU",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
       "from": "DTU:opene",
       "to": "DTU:hitecfair",
       "label": "crossref",
       "type": "crossref"
     },
     {
+      "from": "DTU:opene",
+      "to": "DTU",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
       "from": "DTU:Stardust",
       "to": "DTU:hitecfair",
       "label": "crossref",
       "type": "crossref"
+    },
+    {
+      "from": "DTU:Stardust",
+      "to": "DTU",
+      "label": "connected_to",
+      "type": "connected_to"
     },
     {
       "from": "VenCup",
@@ -1424,16 +1478,34 @@
       "type": "crossref"
     },
     {
+      "from": "CBS:CSE",
+      "to": "CBS",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
       "from": "Oulu:BuKi",
       "to": "CBS:eday18",
       "label": "crossref",
       "type": "crossref"
     },
     {
+      "from": "Oulu:BuKi",
+      "to": "Oulu",
+      "label": "connected_to",
+      "type": "connected_to"
+    },
+    {
       "from": "KU:UCPHIHubs",
       "to": "CBS:eday18",
       "label": "crossref",
       "type": "crossref"
+    },
+    {
+      "from": "KU:UCPHIHubs",
+      "to": "KU",
+      "label": "connected_to",
+      "type": "connected_to"
     },
     {
       "from": "Eupry",
